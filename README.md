@@ -1,2 +1,72 @@
-# Sudoku-Game-Solver
-A tool to find the solution to a Sudoku puzzle.
+- @aismail5
+#- @aismail5
+ - @aismail5
+S- @aismail5
+u- @aismail5
+d- @aismail5
+o- @aismail5
+k- @aismail5
+u- @aismail5
+-- @aismail5
+G- @aismail5
+a- @aismail5
+m- @aismail5
+e- @aismail5
+-- @aismail5
+S- @aismail5
+o- @aismail5
+l- @aismail5
+v- @aismail5
+e- @aismail5
+r- @aismail5
+
+- @aismail5
+A- @aismail5
+ - @aismail5
+t- @aismail5
+o- @aismail5
+o- @aismail5
+l- @aismail5
+ - @aismail5
+t- @aismail5
+o- @aismail5
+ - @aismail5
+f- @aismail5
+i- @aismail5
+n- @aismail5
+d- @aismail5
+ - @aismail5
+t- @aismail5
+h- @aismail5
+e- @aismail5
+ - @aismail5
+s- @aismail5
+o- @aismail5
+l- @aismail5
+u- @aismail5
+t- @aismail5
+i- @aismail5
+o- @aismail5
+n- @aismail5
+ - @aismail5
+t- @aismail5
+o- @aismail5
+ - @aismail5
+a- @aismail5
+ - @aismail5
+S- @aismail5
+u- @aismail5
+d- @aismail5
+o- @aismail5
+k- @aismail5
+u- @aismail5
+ - @aismail5
+p- @aismail5
+u- @aismail5
+z- @aismail5
+z- @aismail5
+l- @aismail5
+e- @aismail5
+.- @aismail5
+
+- @aismail5
